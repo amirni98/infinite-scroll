@@ -97,7 +97,7 @@ h1 {
 @media screen and (max-width: 576px) {
 
     h1 {
-        font-size: 2rem;
+        font-size: 1.9rem;
     }
 
     .image-container {
@@ -110,7 +110,9 @@ h1 {
 @media screen and (max-width: 360px) {
 
     h1 {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
+        letter-spacing: .6rem;
+
     }
 
     .image-container {
